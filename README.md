@@ -1,4 +1,7 @@
+**MY SQL**
+
 **SQL Exercise Repository**
+
 Welcome to the SQL Exercise Repository! This repository is designed to help you practice and enhance your SQL skills. Whether you're a beginner looking to learn the basics or an experienced developer aiming to sharpen your SQL proficiency, you'll find a variety of exercises covering a wide range of topics.
 
 **Table of Contents**
@@ -23,7 +26,7 @@ This repository contains a series of SQL exercises to help you practice and impr
 **Getting Started**
 To get started, clone this repository to your local machine:
 
-git clone [https://github.com/AvinashDarekar/sql-exercise-repository.git](https://github.com/Aradata/MY-SQL)
+https://github.com/Aradata/MY-SQL
 
 Navigate to the repository and explore the exercises in the relevant folders. Each exercise may include SQL scripts, sample data, and instructions to guide you through the process.
 
