@@ -23,7 +23,8 @@ This repository contains a series of SQL exercises to help you practice and impr
 **Getting Started**
 To get started, clone this repository to your local machine:
 
-git clone https://github.com/AvinashDarekar/sql-exercise-repository.git
+git clone [https://github.com/AvinashDarekar/sql-exercise-repository.git](https://github.com/Aradata/MY-SQL)
+
 Navigate to the repository and explore the exercises in the relevant folders. Each exercise may include SQL scripts, sample data, and instructions to guide you through the process.
 
 **Exercise Topics**
